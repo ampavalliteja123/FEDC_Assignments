@@ -1,5 +1,4 @@
 
-
 function NumberPyramid(rows) {
     for (let i = 1; i <= rows; i++) {
       let row = "";
